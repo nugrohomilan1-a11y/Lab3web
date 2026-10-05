@@ -34,30 +34,34 @@ pada langkah ini kita membuat tampilan awal menggunakan HTML
 ### 2. Mendeklarasikan CSS internal
 kemudian tambahkan deklarasi CSS internal dibagian ('head')
 
-<img width="922" height="620" alt="Screenshot 2026-10-05 133558" src="https://github.com/user-attachments/assets/3a7b4f12-a259-44ae-bd5c-74cb2b14e073" />
+<img width="331" height="362" alt="2" src="https://github.com/user-attachments/assets/6ceade73-bb04-4dc9-a843-6b086d3a385a" />
 
-<img width="952" height="388" alt="Screenshot 2026-10-05 133611" src="https://github.com/user-attachments/assets/2e3f7d20-cbed-4ad8-9ce1-d00fe4579f9d" />
+<img width="944" height="221" alt="2,1" src="https://github.com/user-attachments/assets/0ed0a78e-e21a-4e4e-b4a4-e655a4bc97a7" />
+
+
 
 
 ### 3. Menambahkan Inline CSS
 
 Tambahkan deklrasi inline CSS pada tag <p>
 
-<img width="1432" height="265" alt="Screenshot 2026-10-05 133924" src="https://github.com/user-attachments/assets/22cdc7c9-ceac-40a4-9e0a-20b6b73cf2ce" />
+<img width="328" height="12" alt="3" src="https://github.com/user-attachments/assets/1e5aed93-2110-4f22-8e37-43b1ba002caf" />
 
-<img width="956" height="402" alt="Screenshot 2026-10-05 133938" src="https://github.com/user-attachments/assets/9eb15acd-a1df-426e-a441-b235e6007fd5" />
+
+<img width="959" height="252" alt="3 1" src="https://github.com/user-attachments/assets/8b61ec3d-179c-4216-8f87-0241e67cb039" />
+
 
 
 ### 4. Membuat CSS eksternal
 
 menambahkan css eksternal dengan membuat file baru dengan nama style_eksternal.css
 
-<img width="850" height="197" alt="Screenshot 2026-10-05 134552" src="https://github.com/user-attachments/assets/5a390562-a276-49c3-88a7-ddfbd0664df4" />
+<img width="239" height="50" alt="4" src="https://github.com/user-attachments/assets/64ff64c6-d21b-4462-94d0-cb3ecac3beee" />
 
 
-<img width="681" height="321" alt="Screenshot 2026-10-05 134600" src="https://github.com/user-attachments/assets/23756ffb-c083-4b68-be62-bfd4a03c165d" />
+<img width="959" height="308" alt="4 1" src="https://github.com/user-attachments/assets/171408a3-0c68-4b6b-a722-bea4af085e37" />
 
-<img width="1917" height="471" alt="Screenshot 2026-10-05 134622" src="https://github.com/user-attachments/assets/3ed3f7fc-acbc-4566-b1be-c9bb400f7a3b" />
+
 
 
 
@@ -65,10 +69,10 @@ menambahkan css eksternal dengan membuat file baru dengan nama style_eksternal.c
 
 menambahkan CSS selector menggunakan ID dan Class Selector pada file style_eksternal.css.
 
-<img width="916" height="543" alt="Screenshot 2026-10-05 135217" src="https://github.com/user-attachments/assets/1eec39e2-18e3-4e24-926b-89de3e79e15b" />
+<img width="269" height="335" alt="5" src="https://github.com/user-attachments/assets/065cae2a-db7e-4deb-b5c6-29008f66ac4b" />
 
 
-<img width="1917" height="527" alt="Screenshot 2026-10-05 135230" src="https://github.com/user-attachments/assets/f13dc673-f9ca-4198-9aa6-40f284137077" />
+<img width="955" height="311" alt="5 1" src="https://github.com/user-attachments/assets/bf8d2a19-1341-4d9b-a7ff-18072e3c2dac" />
 
 
 
